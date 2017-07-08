@@ -1,0 +1,17 @@
+certifi
+chardet
+data-analysis
+future
+idna
+jupyter
+nltk
+numpy
+oauthlib
+pandas
+PyQt5
+python-twitter
+requests
+requests-oauthlib
+sip
+SQLAlchemy
+urllib3
